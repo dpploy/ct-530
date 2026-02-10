@@ -1,7 +1,7 @@
 # CT-530 Computational Transport Phenomena
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/ct-530/tree/main/notebooks/)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/ct-530/main)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/dpploy/ct-530/tree/main/notebooks/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/ct-530/main?filepath=notebooks)
 ![Website](https://img.shields.io/website/https/github.com/dpploy/ct-530.svg)
 [![Size](https://img.shields.io/github/repo-size/dpploy/ct-530.svg?label=size&style=flat)](https://github.com/dpploy/ct-530)
 
