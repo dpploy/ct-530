@@ -1,14 +1,12 @@
-# Engy-5330 Computational Transport Phenomena
+# CT-530 Computational Transport Phenomena
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/engy-5310/tree/main/notebooks/)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/engy-5330/main)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/ct-530/tree/main/notebooks/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/ct-530/main)
+![Website](https://img.shields.io/website/https/github.com/dpploy/ct-530.svg)
+[![Size](https://img.shields.io/github/repo-size/dpploy/ct-530.svg?label=size&style=flat)](https://github.com/dpploy/ct-530)
 
-![Website](https://img.shields.io/website/https/github.com/dpploy/engy-5310.svg)
-[![Size](https://img.shields.io/github/repo-size/dpploy/engy-5310.svg?label=size&style=flat)](https://github.com/dpploy/engy-5310)
-
-   + [University of Massachusetts Lowell](https://www.uml.edu/), Fall 2021
-   + [Dept. of Chemical Engineering](https://www.uml.edu/Engineering/Chemical/) (Nuclear Energy Program)
-   + [Prof. Valmor F. de Almeida](https://www.uml.edu/Engineering/Chemical/faculty/de-Almeida-Valmor.aspx) (valmor_dealmeida@uml.edu)
+   + [Cortix Tech](https://cortix.tech/), Training & Certification
+   + Licensed under the Cortix Tech Courseware & Sample Code License (CT-CSL) v1.0 — see LICENSE.
 
 The goal of this course is to present an unified treatment of continuum transport phenomena using computational finite element methods. Therefore serving as a foundation for simulation of coupled fluid flow (multiphase), thermo-mechanics, heat transfer, radiation, reactive mass transfer and electromagnetics. The computational framework used is open source and based on [MOOSE: Multiphysics Object-Oriented Simulation Environment](https://mooseframework.inl.gov/). Steady-state, three-dimensional models will be the end-target of this course, therefore necessary topics in parallel computing will be covered. Basic knowledge of transport phenomena is required in addition to computer programming skills of one or more object oriented languages (*e.g.* C++ or/and Python).
 
@@ -27,10 +25,21 @@ start a Jupyter Notebook server on your web browser with all notebooks listed. U
 clicking on individual notebook files, you will access the live course notebooks.
 + Use the green `Code` button above on the right upper side of the page and either download the repository using **GitHub Desktop** or download a **ZIP archive** to your local machine. Unzip the archive. Then use your own Jupyter Notebook server (*see Syllabus or Introduction notebooks on how to install Anaconda*) to navigate to the directory created by the unzip or GitHub Desktop operation and upload the notebook files. In the case of a ZIP download, the files will not be updated on your local machine and you will need to return to the repository for getting new files or updated versions of previously downloaded files as the course progresses. If you use GitHub Desktop, the repository will be in sync.
 
-> *Students will profit from either taking or self-studying a [companion course](https://github.com/dpploy/chen-3170) 
+> *Students will profit from either taking or self-studying a [companion course](https://github.com/dpploy/ct-300) 
 > that explains many of the computational aspects of using Jupyter notebooks, Python language programming, and methods 
 > in computational engineering.*
 
 Thanks in advance for inputs to improve this course.\
 Regards,\
-Prof. Valmor F. de Almeida
+Dr. Valmor F. de Almeida
+
+## Usage
+   + Download
+   + `uv sync`
+   + `uv run jupyter notebook`
+
+## History
+This training material was developed and used as the catalog course Engy-5330 (Spring and Fall 2021) by
+Dr. Valmor F. de Almeida while teaching as an associate professor of nuclear chemical
+engineering at UMass Lowell USA. This is now offered as training and certification at
+[Cortix Tech](https://cortix.tech).
