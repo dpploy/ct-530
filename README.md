@@ -8,6 +8,10 @@
    + [Cortix Tech](https://cortix.tech/), Training & Certification
    + Licensed under the Cortix Tech Courseware & Sample Code License (CT-CSL) v1.0 — see LICENSE.
 
+|  |  |
+|:--:|:--:|
+| <img width="250" src="notebooks/pics/domain.png" title="Sketch"> | <img width="650" src="notebooks/pics/critical.png" title="Criticality"> |
+
 The goal of this course is to present an unified treatment of continuum transport phenomena using computational finite element methods. Therefore serving as a foundation for simulation of coupled fluid flow (multiphase), thermo-mechanics, heat transfer, radiation, reactive mass transfer and electromagnetics. The computational framework used is open source and based on [MOOSE: Multiphysics Object-Oriented Simulation Environment](https://mooseframework.inl.gov/). Steady-state, three-dimensional models will be the end-target of this course, therefore necessary topics in parallel computing will be covered. Basic knowledge of transport phenomena is required in addition to computer programming skills of one or more object oriented languages (*e.g.* C++ or/and Python).
 
 This three-credit lecture course over fifteen weeks, consists of Jupyter notebooks used for lectures (see `notebooks/`).
